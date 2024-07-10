@@ -1,7 +1,20 @@
-# sales-report_excel-project
-This is sales report of a particular store which basically deals in clothing. I used Ms-Excel to work on this project and adopted several steps in report creation.
-Firstly I had done Data Cleaning and removed the unwanted rows, removed the duplicate values.
-Then comes Data Processing. I further created the required columns namely the Age group which was derived from the Age column and also the Month from Date column and organised the data effectively.
-Then I did Data Analysis and examined the sales report and extract insights from it. Filtered the data to focus on specific segment. I also used Pivot tables, vLookups to summarize and analyze the sales data.
-Then comes Data Visualization. Visual representations can help stakeholders quickly grasp trends and insights from sales data. I create charts (e.g., column charts, line charts) to visually represent sales trends, comparisons, and distributions of data.
-I uncovered insights that drive strategic decisions and improvements in the business operations.
+# Clothing Store Data Analysis Using Excel
+
+
+## Objective
+
+The Clothing store wants to analyze the sales for the products in 2023 and with the help of those conclusions want to male decisions to improve their sales for the upcoming years.
+
+The Dashboard was created using Advance Excel.
+
+
+### Insights
+
+- Women are more frequent buyers as compared to men.
+- Achieved more sales from Maharashtra, Karnataka and Utter Pradesh.
+- Maximum contribution of sales is from Adult age group(#0-49 yrs)
+- Channels which provided high sales are Myntra, Flipkart and Amazon.
+
+##  Final conclusions to improve the sales
+
+Target Women customers of age group(30-49 yrs) living in Maharashtra, Karnataka and Utter Pradesh by showing ads/offers/coupons avaliable on Myntra, Flipkart and Amazon.
