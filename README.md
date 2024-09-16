@@ -3,7 +3,7 @@
 
 ## Objective
 
-The Clothing store wants to analyze the sales for the products in 2023 and with the help of those conclusions want to male decisions to improve their sales for the upcoming years.
+The Clothing store wants to analyze the sales for the products in 2023 and with the help of those conclusions want to make decisions to improve their sales for the upcoming years.
 
 The Dashboard was created using Advance Excel.
 
@@ -12,7 +12,7 @@ The Dashboard was created using Advance Excel.
 
 - Women are more frequent buyers as compared to men.
 - Achieved more sales from Maharashtra, Karnataka and Utter Pradesh.
-- Maximum contribution of sales is from Adult age group(#0-49 yrs)
+- Maximum contribution of sales is from Adult age group(30-49 yrs)
 - Channels which provided high sales are Myntra, Flipkart and Amazon.
 
 ##  Final conclusions to improve the sales
